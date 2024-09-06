@@ -1,6 +1,7 @@
 package edu.unca.csci201;
 
 //test edit
+//test edit 2
 
 public class Letter {
 	char character;
